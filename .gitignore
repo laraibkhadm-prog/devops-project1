@@ -1,0 +1,20 @@
+# System files
+AppData/
+.ipynb_checkpoints/
+.ipython/
+.vscode/
+
+# Docker local files
+.docker/
+Docker Desktop Installer.exe.log
+
+# OS files
+*.log
+*.exe
+*.tmp
+
+# Jupyter
+*.ipynb
+
+# Node (if any)
+node_modules/
